@@ -91,6 +91,9 @@ section .contentBx .formBx .input-box input[type="Submit"] {
   color: #fff;
   outline: none;
   border: none;
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
   font-weight: 500;
   cursor: pointer;
 }
